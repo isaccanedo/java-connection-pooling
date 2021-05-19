@@ -1,6 +1,6 @@
 ### Um guia simples para pool de conexão em Java
 
-# 1. Introdução
+# 1. Visão geral
 O pool de conexão é um padrão de acesso a dados bem conhecido, cujo objetivo principal é reduzir a sobrecarga envolvida na execução de conexões de banco de dados e operações de leitura/gravação de banco de dados.
 
 Resumindo, um pool de conexão é, no nível mais básico, uma implementação de cache de conexão de banco de dados, que pode ser configurada para atender a requisitos específicos.
