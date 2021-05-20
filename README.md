@@ -5,7 +5,7 @@ O pool de conexão é um padrão de acesso a dados bem conhecido, cujo objetivo 
 
 Resumindo, um pool de conexão é, no nível mais básico, uma implementação de cache de conexão de banco de dados, que pode ser configurada para atender a requisitos específicos.
 
-Neste tutorial, faremos um resumo rápido de algumas estruturas de pool de conexões populares e aprenderemos como implementar do zero nosso próprio pool de conexões.
+Neste tutorial rápido, faremos um resumo rápido de algumas estruturas de pool de conexões populares e aprenderemos como implementar do zero nosso próprio pool de conexões.
 
 # 2. Por que pool de conexão?
 A pergunta é retórica, é claro.
